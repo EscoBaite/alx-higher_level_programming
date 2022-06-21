@@ -8,3 +8,4 @@ This repo will cover the following:
 - [0x03. Python - Data Structures: Lists and Tuples](https://github.com/EscoBaite/alx-higher_level_programming/tree/main/0x03-python-data_structures)
 - [0x04. Python - More Data Structures: Set, Dictionary](https://github.com/EscoBaite/alx-higher_level_programming/tree/main/0x04-python-more_data_structures)
 - [0x05. python - exceptions](https://github.com/EscoBaite/alx-higher_level_programming/tree/main/0x05-python-exceptions)
+- [0x06. Python - classes](https://github.com/EscoBaite/alx-higher_level_programming/tree/main/0x06-Python-classes)
